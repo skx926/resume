@@ -43,7 +43,7 @@
 # 开源项目和作品
 
 ## 开源项目
- - [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser)：KSPhotoBroser是一个拥有多种可交互的消失动画的图片浏览器。
+ - [KSPhotoBrowser](https://github.com/skx926/KSPhotoBrowser)：KSPhotoBrowser是一个拥有多种可交互的消失动画的图片浏览器。
 
 # 技能清单
 
