@@ -52,7 +52,7 @@
 - 前端开发：html/css
 - 数据库：MySQL/SQLite
 - 版本管理：Svn/Git
-- 其他技能：各种姿势翻墙
+- 其他技能：各种姿势翻墙/Google
 
 ---
 
