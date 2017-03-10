@@ -15,7 +15,6 @@
  - 个人博客：http://skx926.com
  - Github：http://github.com/skx926
  - 期望职位：iOS开发工程师
- - 期望薪资：税前月薪18k~20k
  - 期望城市：深圳、杭州
  
 ---
